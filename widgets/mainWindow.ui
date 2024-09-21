@@ -24,7 +24,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>EnglishProject</string>
+     <string>English Trainer</string>
     </property>
    </widget>
    <widget class="QPushButton" name="words_btn">

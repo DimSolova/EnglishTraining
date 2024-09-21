@@ -24,13 +24,6 @@ class MianWindowClass(QMainWindow, ui.Ui_MainWindow):
         self.train = trainingSetting.TrainingSettingClass()
         self.train.exec()
 
-
-
-
-
-
-
-
 if __name__ == '__main__':
     app = QApplication([])
     w = MianWindowClass()
